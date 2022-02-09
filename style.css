@@ -1,0 +1,47 @@
+html{
+    background-color: bisque;
+    font-family: 'Supermercado One', cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.tabla tr:hover {
+    background-color: #ddd
+}
+
+.tabla tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+.tabla td, .tabla th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+.tabla th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+    width: 200px;
+    text-align: center;
+  }
+
+.tabla{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.libre  {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+    width: 200px;
+    text-align: center;
+}
