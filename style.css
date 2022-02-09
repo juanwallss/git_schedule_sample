@@ -1,5 +1,5 @@
 html{
-    background-color: bisque;
+    background-color: grey;
     font-family: 'Supermercado One', cursive;
     text-align: center;
 }
@@ -25,7 +25,7 @@ h1{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #04AA6D;
+    background-color: black;
     color: white;
     width: 200px;
     text-align: center;
@@ -40,7 +40,7 @@ h1{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #04AA6D;
+    background-color: black;
     color: white;
     width: 200px;
     text-align: center;
