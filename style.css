@@ -25,7 +25,7 @@ h1{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: black;
+    background-color: darkblue;
     color: white;
     width: 200px;
     text-align: center;
@@ -40,8 +40,13 @@ h1{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: black;
+    background-color: darkblue;
     color: white;
     width: 200px;
     text-align: center;
+}
+
+.nombreClase {
+    font-weight: bold;
+    color: blue;
 }
